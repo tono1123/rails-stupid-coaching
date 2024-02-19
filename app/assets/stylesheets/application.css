@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+
+ section {
+  --main-bg-color: brown;
+}
